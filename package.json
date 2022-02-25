@@ -1,0 +1,9 @@
+{
+  "name": "webkit-unstable-playwright",
+  "version": "1.0.0",
+  "scripts": {},
+  "author": "Fernando Garcia Llorente",
+  "devDependencies": {
+    "@playwright/test": "^1.19.2"
+  }
+}
